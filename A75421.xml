@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to Mercurius Aulicus: or, His communicated intelligence from the court to the rest of the Kingdome: faithfully trased through, to undisceive those who love the truth. The forty ninth weeke, ending December. 9.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75421</idno>
+            <idno type="STC">Wing A3361</idno>
+            <idno type="STC">Thomason E79_14</idno>
+            <idno type="EEBO-CITATION">99873471</idno>
+            <idno type="PROQUEST">99873471</idno>
+            <idno type="VID">155598</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75421)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155598)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E79[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to Mercurius Aulicus: or, His communicated intelligence from the court to the rest of the Kingdome: faithfully trased through, to undisceive those who love the truth. The forty ninth weeke, ending December. 9.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. W.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; place of publication from Wing.</note>
+                  <note>Mercurius Aulicus is a periodical publication from Oxford.</note>
+                  <note>Annotation on Thomason copy: "1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="answer">
+            <pb n="1" facs="tcp:155598:1" rendition="simple:additions"/>
+            <head>
+               <hi>An Anſwer to</hi> Mercurius Aulicus: <hi>OR,</hi> His Communicated Intelligence from <hi>The Court to the reſt of the Kingdome:</hi> Faithfully traſed through, to <hi>un<g ref="char:EOLhyphen"/>diſceiue thoſe who love the truth.</hi>
+            </head>
+            <opener>
+               <date>The forty ninth weeke, ending December. 9.</date>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">M</seg>Ercurius,</hi> To make us take him for a Courtier, ſtiles himſelfe <hi>Aulicus,</hi> that is of the Court, but his Actions prooves him an <hi>Auleticus,</hi> that is, <hi>Good for nothing but to make a Pipe on,</hi> So that we have his name but by a figure, and in ſtoad of a Meſſuage (which Office he profeſſeth) by his lyes, (Piper like) he makes himſelfe onely a ſpot, to deceive the Kingdome by his alluring tongue.</p>
+            <p>But he forgets, or is aſhamed to tell us why he lyes in a ſheet and a halfe this cold weather: But if your Miſtris want cloathes, give her the tother halfe too <hi>(Auleticus)</hi> the Plunderers know very well that you kill more in your ſheet, than they doe in the Field.</p>
+            <p>
+               <hi>Auleticus</hi> tells us that his Majeſty according to his wonted goodneſſe, did ſet out a Proclamation <hi>Decemb.</hi> 1. That if any were found to rob or take away any horſe or Cattle, or other goods whatſoever ☞ without Authority, or that they cannot produce any Authentick paſſe under the ☟ hand and Seale of
+<pb n="2" facs="tcp:155598:2"/>the Colonell &amp;c. they ſhould be apprehended, and tryed by a Counſell of Warre; why <hi>Auleticus,</hi> for his Majeſties wonted goodneſſe, we are very ſory that the bloudy Cavaliers ſhould a<g ref="char:EOLhyphen"/>buſe it, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> keepe his Majeſty from us; And the very ſame day that this <hi>Proclamation</hi> came out, the Souldiers of your Armie were much offended, and would not be appeaſed untill by ano<g ref="char:EOLhyphen"/>ther <hi>Proclamation</hi> (which was granted the very ſame day) it was certified, that the Counties of <hi>Oxford, Berks,</hi> and <hi>Wilts,</hi> were content rather to pay weekely ſummes, than (as they have done hitherto) endure the robberies, and inſolent cruelties of their plundring.</p>
+            <p>He cals the two Houſes of <hi>Parliament</hi> ☞ pretended Houſes of <hi>Lords</hi> and <hi>Commons,</hi> whoſe ſitting is confirmed by an Act from his Majeſty under the great Seale. <hi>Auleticus</hi> doe you think that we are ſo mad to diſert them to adhere to your Counſells of Prieſts, Fryars, and Jeſuits? what though you thinke theſe to be a <hi>jure Divino,</hi> we hold the ſitting of the Parliament to be ac<g ref="char:EOLhyphen"/>cording to Law.</p>
+            <p>He tells us of differences betweene the two Houſes, and that the Houſe of Commons would not conſent to the Houſe of Lords for Treating with the <hi>French Ambaſſadour;</hi> But the Piping Mercury playes a falſe tune, both Houſes are very ready and willing to Treat with him in a Legall and Honourable way, and accordingly have proceeded. It was your factious Lords at <hi>Ox<g ref="char:EOLhyphen"/>ford</hi> that have hitherto laboured to hinder the Treaty for Peace, that was ſo violent to teare the firſt Propoſitions for feare that his Majeſty and the Parliament ſhould agree. The Ambaſſadour was very angry when he rouzed up <hi>Cottington</hi> out of the Em<g ref="char:EOLhyphen"/>bers of the Spaniſh fire.</p>
+            <p>He tells us that Colonell <hi>Long</hi> deſerves to be <hi>Regiſter</hi> of the <hi>Chancery,</hi> becauſe he hath beene a Rebell; But <hi>Auleticus</hi> you are miſtaken, for though you was made Regiſter to the <hi>Prelates</hi> at <hi>Oxford</hi> becauſe you broke out of the Gaole at London; yet the reaſon why Colonell <hi>Long</hi> is reſpected, is, for that hee is a good Proteſtant, and an honeſt man.</p>
+            <p>He tells us a ſtory of the gold Oare that came in the Ginney
+<pb n="3" facs="tcp:155598:2"/>ſhip that was taken, and enquiry to be made after ſome malig<g ref="char:EOLhyphen"/>nants that were owners thereof, why let me tell you (goodman piper) this is but dull muſicke at <hi>Oxford</hi> but teſt your ſelfe, ſatis<g ref="char:EOLhyphen"/>ed we ſhall imploy it to better purpoſe, then <hi>Captaine Cr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſpe</hi> imployed his treſury. But Colonel <hi>Maſſey</hi> had like to have called him to account, for if his miſtris had not ſhewed him a privat way to fly out at <hi>Cicitcr.</hi> Now in one thing to (giue the Piper his due) <hi>Auleticus</hi> ſpeakes trueth, That the Earle of <hi>Warickae</hi> deſerues to haue his Commiſſion enlarged, becauſe he is ſo good and loyall. But he tels us that the ſeeking of Reformation hath brought us to viſible wants, and that a dearth is at hand. Iuſt as <hi>Dudly</hi> the great Cavalier, a comman high-way man ſayd of his linnen at his Inne, at Saint <hi>Albones,</hi> which he had taken to wrap his ſtolne plate in, O ſayth he to his fellow theeues, <hi>If that bee waſhed wee are all undone, we are all dead men,</hi> and ſuch a terror doth Re<g ref="char:EOLhyphen"/>formation ſtrike into the hearts of the lawleſſe Caualeers.</p>
+            <p>He tels us a large ſtory of ſome difference betweene the Earle of <hi>Denbigh,</hi> and Colonell <hi>Barker,</hi> and Colonell <hi>Purfey:</hi> But let me tell you <hi>Auleticus,</hi> you are much deceiued in your newes: For the Earle of <hi>Denbigh,</hi> and Colonell <hi>Barker</hi> are unanimouſ<g ref="char:EOLhyphen"/>ly agreed to ioyne with Colonell <hi>Purfey.</hi> And if Prince <hi>Rubert</hi> march that way, they may chance make him leape ouer as ma<g ref="char:EOLhyphen"/>ny hedges as he did before to make an eſcape. Indeed we heard from <hi>Oxford,</hi> that when the Lord <hi>Lowden</hi> was called for, ſome ſayd it was illegall to uſe a meſſenger ſo, as he hath bene, which had like to haue cauſed a mutiny to the purpoſe: and therefore he was ſent away to <hi>Briſtoll,</hi> where he remaines cloſe priſoner.</p>
+            <p>He tells us that his <hi>Excellency,</hi> and Sir <hi>William Waller</hi> ſtriue for ſpeedy pay, and puts us in minde of <hi>Newbery</hi> and <hi>Baſing-Houſe. Auleticus,</hi> His <hi>Excellency,</hi> and Sir <hi>William Waller</hi> doe both ſcorne to rob the poore Countrey people for want of pay; as the Caualeers doe: or your Ladies pay in the Campe with the <hi>P</hi>—. But honeſtly, godlily and legally, And it is upon ac<g ref="char:EOLhyphen"/>count what the Caualeers receiued from his <hi>Excellency</hi> at <hi>New<g ref="char:EOLhyphen"/>bery:</hi> who payed them ſo well, that they reported at <hi>Oxford,</hi> they thought th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y had fought againſt ☞ divels by reaſon of the fury
+<pb n="4" facs="tcp:155598:3"/>of his <hi>Excellencies</hi> valiant Souldiers, and had the <hi>Weſtminſter</hi> men ſtood to it at <hi>Baſing,</hi> Sir <hi>William Waller</hi> would haue payd himſelfe out of the houſe. And he can giue an account of the Lord <hi>Salt an</hi> and others, beſides the <hi>Amazonians,</hi> concerning what deſigne: beſides what hath happened ſince, concerning which; Becauſe <hi>(Auleticus)</hi> you ſay we had ſome great exſpe<g ref="char:EOLhyphen"/>ctation of Sir <hi>William Wallers</hi> future ſucceſſe, concerning which we can giue you an account already of forty priſoners taken at <hi>Farnham</hi> fight: where you and your dead, the moſt of them were kept from our knowledge: but the pretended Lord <hi>Hopton</hi> was in ſuch a fright; that he fled for it, and his Army after him; for which he hath ſince receiued a checke from <hi>Oxford,</hi> nay more then this, there is betweene 7. and 800. with their Colo<g ref="char:EOLhyphen"/>nels, Captaines, Enſignes, and other Officers all ſaue the Lord <hi>Craford,</hi> and ſome fewe, that narrowly eſcaped, all taken at <hi>Alton</hi> by Sir <hi>william,</hi> beſides 40. ſlaine there of the Beſt ſouldi<g ref="char:EOLhyphen"/>ers <hi>Hopton</hi> hath, oh <hi>Auleticus,</hi> your <hi>Organiſt</hi> at <hi>Oxford will play</hi> this tune very baſe.</p>
+            <p>He tells us that the people are very backward to bee preſt in <hi>Eſſex, Surrey,</hi> &amp; <hi>Kent;</hi> But this is an impudent lye, for in all places they have raiſed great ſtrength to keepe the Cavaliers out of thoſe parts. And yet <hi>Auleticus</hi> is ſo audacious as to ſay, that they doe kill and hang thoſe that will not goe along with them; Indeed your owne field Martiall, <hi>Hopton,</hi> ſent out ſuch a War<g ref="char:EOLhyphen"/>rant which coſt ſome of the poore men their lives, which for that purpoſe were driven before them to <hi>Arundell</hi> houſe.</p>
+            <p>He tells us of ſome diſagreement about the Recru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of his <hi>Excellencies Army; Auleticus,</hi> his <hi>Excellency</hi> intends to leave a Garriſon at <hi>Newport Pannell,</hi> and to ſecure thoſe parts where he is with ſufficient ſtrength, and you are like to heare from him before the Lord <hi>Craford</hi> in the Weſt, or the Earle of Newcaſtle in the North, or your bloudy Generall Prince <hi>Rupert</hi> be Recru<g ref="char:EOLhyphen"/>ted; whoſe dead pay, and plunder have ☞ conveyed away too much plate and Jewells beyond Sea. ☞ A ſtrange way to Re<g ref="char:EOLhyphen"/>crute the <hi>Palatinate.</hi>
+            </p>
+            <p>On <hi>Thurſday</hi> morning the firſt of all, falls a railing againſt
+<pb n="5" facs="tcp:155598:3"/>Captaine <hi>Terrell,</hi> Maſter <hi>Greenevill,</hi> Captaine <hi>Phips,</hi> and Cap<g ref="char:EOLhyphen"/>taine <hi>Pollerd</hi> in Buckinghamſhire, and to no purpoſe at all; but like the Prelates in their private Conventicle at <hi>Oxford</hi> reſolve upon the Buſines that it muſt of neceſſity be taught in all pulpits; that the Parliament and all good Proteſtants ☞ muſt be rayled againſt by reproaches, or elſe Popery will never be eſtabliſhed. And for the Exciſe you tell us of <hi>(Auleticus)</hi> you ſee what a juſt and equall way the Parliament take for money.</p>
+            <p>He tells us that the <hi>Chilterne</hi> parts have raiſed Forces to de<g ref="char:EOLhyphen"/>fend the Countrey from both parts: He meanes the <hi>Papiſts</hi> and <hi>Prelates;</hi> For when Prince <hi>Rupert</hi> ſent privately into that Cun<g ref="char:EOLhyphen"/>trey, he had an anſwer to the purpoſe; and the very women, and maides being ſenſible of their wickednes in places where they come, will rather fight themſelves to the laſt drop of bloud in their body, than to expoſe themſelves to be Raviſhed and ſpoi<g ref="char:EOLhyphen"/>led by the Cavaliers.</p>
+            <p>And <hi>(Auleticus)</hi> relates as very a peece of non-ſence for Newes as ever was written; That ſome of the Earle of <hi>Eſſex</hi> Forces, all or moſt part of them <hi>Dutch Walloones</hi> and <hi>French</hi> in <hi>Hartfordſhire</hi> are a ſcourge to thoſe parts; Well <hi>Auleticus,</hi> we grant there is Forreigners in his Excellencies Army, but they are Proteſtants; there is no <hi>Taffes,</hi> nor <hi>Oneales,</hi> nor <hi>La Vives,</hi> nor <hi>Seignior Corges</hi> that ☞ bring their Commiſſion from <hi>Rome</hi> with them, with a promiſe to be Canonized for Saints by acting for the continuing of theſe warres, as one writ from beyond Sea to the Lord <hi>Digby,</hi> that if the King hearkened to a peace, all their pl<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> were ſpoyled.</p>
+            <p>He tells us that about <hi>Cheſham</hi> they are very weary of the Earle of <hi>Eſſex,</hi> becauſe they are forced to bring his Souldiers in ſo much proviſion; No <hi>Auleticus</hi> you play falſe muſick, they have ſent the Army a Letter of thankes for preſerving them from being plundered by Prince <hi>Rupert,</hi> and are very deſirous that his Ex<g ref="char:EOLhyphen"/>cellency would not leave them without ſufficient Garriſons to keepe out the Cavaliers; and whereas you tell us that the trai<g ref="char:EOLhyphen"/>ned bands are ready to leave Sir <hi>William Waller;</hi> you are much
+<pb n="6" facs="tcp:155598:4"/>deceived, for they have given a teſtimony to the contrary at <hi>Al<g ref="char:EOLhyphen"/>ton,</hi> where their valour deſerves a Trophy of perpetuall praiſe, and other Trained Bands are ready to relieve them, as themſelves to be refreſht; but I doubt not but Sir <hi>Edward Deering</hi> hath told his tale at <hi>Oxford</hi> by this, and how much the Cavaliers under <hi>Hopton</hi> are out of heart.</p>
+            <p>
+               <hi>Auleticus</hi> makes himſelfe muſick with the fancy of a great Victory at <hi>Howarden</hi> Caſtle in Cheſhire, which is a place where Sir <hi>William Brereton</hi> had beene with ſome of his Army, but ſince ſo many came out of <hi>Ireland,</hi> he left it as nothing at all advantagious unto him, and Colonell <hi>Earnley</hi> hath ſince poſſeſſed himſelfe of it; yet <hi>Auleticus</hi> tells us they tooke 2 Drakes, ſure it was ſome Duckes ſwimming in the pond, and he ſaith the Ca<g ref="char:EOLhyphen"/>valiers tooke 100 Armes, he meanes 100 Iriſh women in their armes, he ſpeakes much by figures, eſpecially the middle to be <hi>ſub intelligitur.</hi> And then he tells us of more comming from <hi>Ireland,</hi> the more is the pitie, for by this meanes the Proteſtants there are uſed with the more cruelty, the Papiſts increaſe in ſtrength, &amp; that the Kingdom is in the more danger to be ſurprized by the ☞ <hi>Spaniard,</hi> and further we are in <hi>England</hi> from peace. He tels us a ſtory of an houſe that was fired at <hi>Kingſtone</hi> in <hi>Surry Auleticus,</hi> you might have held your toung there for ſhame, for whereas there was a Parry in theſe parts, which were abſolute Caueleeres that lay gaping for ſome rebells, to raiſe them an head, but ſaw little hopes to find it, becauſe the country was raiſing of forces to keepe out the Cavaleers, and ſeeing themſelves in ſome danger, began to muteny rob and plunder, endevoured to have fired the Towne, and ſo to fly away, but ſome of them are taken and in Priſon: and the reſt I fled to <hi>Oxford.</hi>
+            </p>
+            <p>
+               <hi>Saturday</hi> he begins with lamentation, for Prince <hi>Maurice</hi> his loſſe at <hi>Plimouth</hi> yet to daub up the matter he reckons up many ſlaine, amongſt which 3. Commanders, but they were beaten off that they could not know what execution they had done, <hi>Auleti<g ref="char:EOLhyphen"/>cus</hi> you will tell a pretty tale a non, Colonell <hi>Gold</hi> you ſay, is ſhot through the arme: and keepes his bed, why what a bundle of Bulles his here <hi>Auleticus,</hi> indeede you tell us you have threeſcore
+<pb n="7" facs="tcp:155598:4"/>
+               <hi>Oxen</hi> and <hi>Kine,</hi> and as many <hi>ſheepe,</hi> and they are all Buls, you tell us you tooke a Genteleman and a Colonell priſoners: and caried your Priſoners a way, and left them in <hi>Plimouth:</hi> that is you would haue had them to haue giuen themſelues up to haue beene your priſoners, and they would not: but ſtayed ſtill in <hi>Plimouth,</hi> But you tell us that <hi>Prince Maurice</hi> was not in the ſiedge, where was he thinke you? in <hi>Limbo Patrem,</hi> or <hi>Infantum:</hi> if he be dead tell us plainely, that we may talke no more of him, and yet now I thinke of it, you are charged to the <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ntrary, and muſt be the Court <hi>Mercury</hi> no more if you ſay ſo.</p>
+            <p>He tels us of Maiſtet <hi>Pims</hi> death, as remarkable newes, and how he was impeached of Treaſon, and that he died of the <hi>He<g ref="char:EOLhyphen"/>rodian</hi> viſitation, and that hee was a moſt loathſome and foule Carcaſſe: <hi>Auleticus,</hi> M. <hi>Pim</hi> is dead, but his fame liues: and will in deſpite of thee, and all the Caualeers, and <hi>Papiſts</hi> of the Kingdome: he is aſcended too high for thee to hurt him, and for that ſcandalous aſpertion which thou haſt layd upon him, many hundreds, who were eye witneſſes, doe teſtifie that he was a ve<g ref="char:EOLhyphen"/>ry cleere and unſpotted Corpes, hauing nothing loathſome upon his body, from head to foote, but as faire a Courſe as the behol<g ref="char:EOLhyphen"/>ders euer ſaw: It is onely our loſſe, that he is dead: and yet the Lord hath left us many more <hi>Pims,</hi> many more godly <hi>Patriots,</hi> to ſtand for God and his Cauſe: And whereas you tell us of the death of the Lord <hi>Brookes</hi> and Maiſter <hi>Hampden,</hi> they died in their appointed time, full of the Holy Ghoſt, with God in their mouthes, and Chriſt in their hearts, Freely powring our their ſoules to God: Not like the Earle of <hi>Northampton</hi> and other Caualeers, curſing and ſwearing, with their laſt breath: Theſr indeed are fearefull things, and to be conſidered. And for Sire <hi>Iohn Hotham</hi> and his Sonne, and Colonell <hi>Fines,</hi> leaue them to their Tryall: they will find Law with us, though you haue nei<g ref="char:EOLhyphen"/>ther Law nor Goſpell, ſaue onely your Ladies Oracles.</p>
+            <p>In the laſt place he falls a rayling agianſt the <hi>Parliament,</hi> and calls them the Rebells of <hi>Weſtminſter,</hi> and would traduce the
+<pb n="8" facs="tcp:155598:5"/>City to have an hard opinion of the Scots; <hi>Auleticus</hi> I would adviſe thee to come to Bedlam, and let thy pipes be new mended leaſt thou grow ſtarke mad and incurable through the extremity of thy diſtracted braine, the more thou rayleſt againſt the Par<g ref="char:EOLhyphen"/>liament, the more thou bewrayeſt thine owne impudency; and the more hatefull thou art in the eyes of all Proteſtants; And for the comming of the Scots, you have juſt piped a leſſon of the di<g ref="char:EOLhyphen"/>vells owne making; Firſt to make the people you have ſeduced to preſume they would not come, and now to bring them to a deſ<g ref="char:EOLhyphen"/>perate opinion againſt them to expect nothing but ruine: wher<g ref="char:EOLhyphen"/>as it is moſt apparent, that you and your popiſh <hi>Lords, Prieſts, Fryars</hi> and <hi>Ieſuits,</hi> and the advancement of your perſons in your Ladies Favours, to the undermining of the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and the ruine of King and People, and have been the cauſe of all our mi<g ref="char:EOLhyphen"/>ſery; But for all your malice we doubt not but that this happy Union will be confirmed and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> between us and our brethren of <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>land</hi> to perpetuall Generations.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>W. W.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
